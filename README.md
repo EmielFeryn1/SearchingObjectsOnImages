@@ -1,2 +1,2 @@
 # SearchingObjectsOnImages
-Searches objects on objects using natural language
+Searches objects on images using natural language
