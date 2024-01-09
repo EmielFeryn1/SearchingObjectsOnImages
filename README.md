@@ -10,3 +10,5 @@ Script to search objects on images.
 💬 The querying process involves translating a sentence into an embedding using the same Clip model. The vector database then facilitates searching for the closest matching entity.
 
 🌐 This approach allows for identifying objects in images through natural language queries, demonstrating the project's practical applications.
+
+More info: https://blog.lancedb.com/search-within-an-image-331b54e4285e
