@@ -4,3 +4,4 @@ venv
 *.pth
 data
 .idea
+__pycache__
